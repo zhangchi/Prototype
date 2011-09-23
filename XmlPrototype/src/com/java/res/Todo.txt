@@ -1,0 +1,13 @@
+xml format design
+
+<?xml version="1.0" encoding="URF-8"?>
+<Prototype>
+	<Tools>
+		<Tool>
+			<Props>
+				<Prop>
+				</Prop>
+			</Props>
+		</Tool>
+	</Tools>
+</Prototype>

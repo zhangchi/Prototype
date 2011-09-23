@@ -1,0 +1,12 @@
+<tools>
+	<tool id="1" type="tool::container::browser" x="5" y="50" w="40" h="50">
+		<props>
+			<prop>this is a browser</prop>
+		</props>
+	</tool>
+	<tool id="2" type="tool::container::frame" x="5" y="30" w="30" h="30">
+		<props>
+			<prop>this is a frame</prop>
+		</props>
+	</tool>
+</tools>
